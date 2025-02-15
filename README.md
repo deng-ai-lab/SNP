@@ -1,6 +1,6 @@
-# Score-based Neural Processes
+# Score-based Neural Processes ([IEEE TNNLS](https://ieeexplore.ieee.org/abstract/document/10847300))
 
-This repository is the official implementation of Score-based Neural Processes ([IEEE TNNLS](https://ieeexplore.ieee.org/abstract/document/10847300)). 
+This repository is the official implementation of Score-based Neural Processes (SNPs). 
 
 <p align="center">
 <img src="assets/snp.PNG" width="1000">
